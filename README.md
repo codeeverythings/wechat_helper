@@ -9,14 +9,14 @@
 
 **如需要联系本人，添加微信号： zrsbc1225**
 
-<img src="https://github.com/codeeverythings/wechat_helper/blob/main/asserts/%E8%81%94%E7%B3%BB%E5%BE%AE%E4%BF%A1.jpg" width="400" height="300" alt="联系本人">
+<img src="https://github.com/codeeverythings/wechat_helper/blob/main/asserts/%E8%81%94%E7%B3%BB%E5%BE%AE%E4%BF%A1.jpg" width="800" height="600" alt="联系本人">
 
 # 使用教程
 
 ## 1.打开软件,填写如下信息：
 
 
-<img src="https://github.com/codeeverythings/wechat_helper/blob/main/asserts/%E5%A1%AB%E5%86%99%E4%BF%A1%E6%81%AF.png" width="400" height="300" alt="信息说明">
+<img src="https://github.com/codeeverythings/wechat_helper/blob/main/asserts/%E5%A1%AB%E5%86%99%E4%BF%A1%E6%81%AF.png" width="800" height="700" alt="信息说明">
 
 
 ## 2.然后点击开始分析
@@ -26,7 +26,7 @@
  2）过程中会有扫描操作，请正常用公众号相关的微信号扫描即可，保存密码可以忽视不用管 <br>
  3）浏览器会被程序自动关闭，无需手动干预，不要自己关闭 <br>**
 
-<img src="https://github.com/codeeverythings/wechat_helper/blob/main/asserts/%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B.png" width="400" height="300" alt="点击下载">
+<img src="https://github.com/codeeverythings/wechat_helper/blob/main/asserts/%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B.png" width="800" height="700" alt="点击下载">
 
 
 ## 执行过程说明
