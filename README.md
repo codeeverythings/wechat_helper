@@ -19,12 +19,13 @@
 1.打开软件,填写如下信息：
 
 
+![信息说明](https://github.com/codeeverythings/wechat_helper/blob/main/asserts/%E5%A1%AB%E5%86%99%E4%BF%A1%E6%81%AF.png)
+
+
 2.然后点击开始分析
 
-  a.直接下载：您可以选择直接在软件点击下载或者选上自动下载视频
-  
-  b.手动下载视频：点击复制链接，使用下载工具下载到本地后，点击解密，选择下载好的视频
-![image](https://github.com/qiye45/wechatVideoDownload/assets/138199658/a9211670-d729-4184-8692-b484a50eb8ae)
+
+![点击下载](https://github.com/codeeverythings/wechat_helper/blob/main/asserts/%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B.png)
 
 3.开启标题显示（可选 教程：https://github.com/qiye45/wechatVideoDownload/issues/55 ）
 
@@ -37,8 +38,6 @@
 3.重启软件，看到"开启成功"提示后即可显示视频标题
 
 ![image](https://github.com/user-attachments/assets/80975841-dde3-4e05-a5d8-4c2bf0db0f9b)
-
-
 
 
 ## 更新日志：
