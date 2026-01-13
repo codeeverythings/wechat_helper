@@ -9,7 +9,7 @@
 
 ## 下载路径
 
-⬇️ [下载软件安装包](https://github.com/codeeverythings/wechat_helper/tree/main/release)
+⬇️ [下载软件安装包](https://gitee.com/yan-wang-tongsha/share_tools/tree/master/wechat_helper)
 
 
 ## 如何联系
